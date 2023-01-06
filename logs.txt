@@ -1,0 +1,12 @@
+Added employee: amine
+Deleted employee with ID: 1
+Added employee: amine
+Deleted employee with ID: 1
+Deleted all employees
+Updated employee: Employee@610f7aa
+Retrieved employee with ID: 1
+Added employee: amine
+Retrieved employee with ID: 1
+Retrieved all employees
+Added employee: ouassim
+Retrieved all employees
